@@ -1,6 +1,5 @@
 .env
 *.env
-__pycache__/
 *.pyc
 *.pyo
 *.pyd
@@ -15,3 +14,5 @@ __pycache__/
 *.pywzzzz
 csv_path/
 Messy_Employee_dataset.csv
+venv/
+__pycache__/
